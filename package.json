@@ -12,6 +12,7 @@
   "license": "SEE LICENSE IN <your-license-filename>",
   "repository": "<fill-your-repository-here>",
   "dependencies": {
+    "nativescript-localstorage": "^2.0.0",
     "nativescript-theme-core": "~1.0.4",
     "svelte": "^3.2.2",
     "svelte-loader": "^2.13.3",
